@@ -5,3 +5,7 @@ All pictures are freely taken from internet and credits due:
 (2)https://www.freepik.com/author/muhammad-abdullah
 (3)https://www.freepik.com/author/freepik
 (4)https://www.pexels.com/@rezwan-nobi-741721/
+
+font-family: Pacifico, cursive;
+https://spreadsimple.com/free-website-templates/recipe-collection/
+https://www.canva.com/templates/EAE9sqJAUNg-minimalist-aesthetic-recipe-food-pinterest-pin/
