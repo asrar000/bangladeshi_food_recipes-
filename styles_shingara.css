@@ -1,0 +1,19 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display:flex;
+    flex-flow: column wrap-reverse;
+    background-color:yellow;
+    color:green;
+    font-size: 16px;
+    justify-content: space-evenly;
+    font-size: 16px
+}
+
+ul,ol{
+   padding:0px;
+   margin:0px;
+   list-style: none;
+   display:flex;
+   flex-flow: column wrap-reverse;
+    
+}

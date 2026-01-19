@@ -1,0 +1,17 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    display:flex;
+    background-color: azure;
+    color:blueviolet;
+    font-size: 16px;
+    justify-content: space-evenly;
+    font-size: 16px
+}
+ul{
+   padding:0px;
+   margin:0px;
+   list-style: none;
+   display:flex;
+   flex-flow: column wrap-reverse;
+    
+}
