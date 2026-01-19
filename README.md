@@ -8,4 +8,4 @@ All pictures are freely taken from internet and credits due:
 
 font-family: Pacifico, cursive;
 https://spreadsimple.com/free-website-templates/recipe-collection/
-https://www.canva.com/templates/EAE9sqJAUNg-minimalist-aesthetic-recipe-food-pinterest-pin/
+https://www.canva.com/templates/EAEzYCipb7M-white-instagram-story-recipe/
